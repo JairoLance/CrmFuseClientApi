@@ -1,0 +1,17 @@
+MODULOS DINAMICOS
+https://remotedevdaily.com/vuex-productivity-hack-how-to-import-all-vuex-modules-automatically/
+https://dev.to/simo_benhida/tip---import-vuejs-modules-at-once-58dl
+
+
+draggable muy bueno
+https://forum.vuejs.org/t/refactor-jqueryuis-sortable-to-vue-draggable/19630
+
+
+task ejemplos
+https://app.interviewschool.com/dashboard#/interviews/industry/free
+
+
+// "scripts": {
+  //   "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
+  //   "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  // },

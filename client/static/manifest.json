@@ -1,0 +1,15 @@
+{
+  "name": "Pos",
+  "short_name": "Pos",
+  "icons": [
+    {
+      "src": "/static/img/icons/icon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00897b"
+}
